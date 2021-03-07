@@ -13,18 +13,6 @@ Group Project - README Template
 ### Description
 An application that allows users to create groups with others, and create/assign tasks to certain users. Tasks can also be randomly assigned to a user, and can rotate through the group. Tasks can be repeated weekly, monthly, or yearly. Users can optionally create tasks for themselves and not join a group.
 
-### Gif Walkthrough
-
-#### Sign up/ Create a room/ Assign a Chore
-<img src="http://g.recordit.co/kfAX0s4YwP.gif" width=250><br>
-
-#### Sign up/ Join a room
-<img src="http://g.recordit.co/qHQQIYQa0s.gif" width=250><br>
-
-#### Create Chore after logging in
-<img src="http://g.recordit.co/JqtGrYXnDJ.gif" width=250><br>
-
-
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
